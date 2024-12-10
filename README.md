@@ -1,6 +1,6 @@
-# PowerBI
-Power BI Project
-Anomaly Detection in Credit Card Transactions 
-The first Power BI project idea we have come up with is Anomaly Detection in Credit Card Transactions. Anomaly Detection is a machine learning technique for detecting unusual things, events, or observations that differ considerably from the rest of the data and look suspicious. You can implement this machine learning method in three ways- supervised (for labeled datasets), semi-supervised (for normally trained datasets), and unsupervised (for datasets without any labels).
+# ECOMMERCE ANALYSIS IN POWER BI
+Fictitious data from online pet supply store- Whiskique
+Market basket analysis:
+To find products frequently bought together, determine correlation coefficient between purchased items, implemented as a correlation matrix, and identify frequency products are purchased with together
 
-For this project, you can use the credit card dataset by Delaware available on their open data platform, or the credit card fraud detection dataset from Kaggle. It would be best to import the dataset into the Power BI desktop, maybe via a web connector. You can then leverage Power BI to train your anomaly detector or use a pre-trained model. To label outliers in Power BI, you'll need to run a Python script in the Power Query Editor and use the get_outliers() method. Finally, the Power BI Dashboard can be used to visualize it. You could also train your anomaly detection model in any IDE or Notebook and then pass it to Power BI for labeling. You can do the data visualization in the Power BI dashboard with the help of Line Charts, Bubble Charts, tree maps, etc.
+
